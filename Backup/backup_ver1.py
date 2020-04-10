@@ -9,7 +9,7 @@ source = ['/media/bs4ivc/Films/www/Projects/Python/ByteOfPython', '"/media/bs4iv
 # двойные кавычки внутри строки.
 
 # 2.Резервные копии должны храниться в основном каталоге резерва.
-target_dir = '/home/bs4ivc/Documents' # Подставте тот путь, которій ві будете использовать.
+target_dir = '/home/bs4ivc/Documents/Backup/ver1' # Подставте тот путь, которій ві будете использовать.
 
 # 3. Файлы помещаются в zip-архив.
 # 4. Именем для zip-архива служит текущая дата и время.
